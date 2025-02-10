@@ -1,0 +1,45 @@
+commit 4450d1cf27660085e6ea65fd67cb0c4b460d8de2
+Author: robc23 <robcas724@gmail.com>
+Date:   Sat Feb 8 13:23:27 2025 -0800
+
+    Added div for favorite game
+
+commit 7c11e9cde08a1d7b50826ca313b3584dcf134805
+Author: robc23 <robcas724@gmail.com>
+Date:   Sat Feb 8 13:19:37 2025 -0800
+
+    Added div for favorite food
+
+commit 21aeabf7a94b79a60f273ef173b6072d70e8a29d
+Merge: 4addebb 4dde070
+Author: robc23 <robcas724@gmail.com>
+Date:   Sat Feb 8 13:08:16 2025 -0800
+
+    Merge branch 'main' of https://github.com/robc23/CS3338-second-project
+
+commit 4addebb1b72c8d18e25fba5789347db3d6b523cf
+Author: robc23 <robcas724@gmail.com>
+Date:   Sat Feb 8 13:06:19 2025 -0800
+
+    Added project README
+
+commit 4dde070339e4be25cdd9234f4f4eb76d1451cb21
+Merge: 1d2bfc0 6f757a1
+Author: robc23 <robcas724@gmail.com>
+Date:   Sat Feb 8 13:00:22 2025 -0800
+
+    Merge pull request #1 from robc23/info-fill
+    
+    Filled in the blanks in index.html
+
+commit 6f757a1cbce0399f95237ac059dd2a0980d5c6b4
+Author: robc23 <robcas724@gmail.com>
+Date:   Sat Feb 8 12:54:41 2025 -0800
+
+    Filled in the blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
